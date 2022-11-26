@@ -1,14 +1,5 @@
-# CheatBreakerX
+# Home
 
-This is a test. Have some code!
+You will not be able to download as of now. However, you can contribute to the source by cloning [our repository](https://github.com/CheatBreakerX/Client) and adding/fixing features and methods.
 
-```java
-package com.cheatbreaker.havefun;
-
-public class SomeRandomCode {
-    public static void main(String[] args) {
-        System.out.println("This is example Java code.");
-        System.out.println("For demonstration purposes, of course.");
-    }
-}
-```
+If asking for an "ETA", then I won't give you one.
